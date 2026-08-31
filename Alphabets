@@ -1,0 +1,2 @@
+#include <iostream>
+int main() { for(char c='A'; c<='E'; c++) std::cout << c << " "; }
