@@ -1,0 +1,2 @@
+#include <iostream>
+int main() { int y = 2024; std::cout << (y % 4 == 0 ? "Leap" : "Not"); }
