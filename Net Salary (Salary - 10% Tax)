@@ -1,0 +1,2 @@
+#include <iostream>
+int main() { double gross = 5000; std::cout << "Net: " << (gross * 0.9); }
