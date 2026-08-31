@@ -1,0 +1,2 @@
+#include <iostream>
+int main() { int a = 50, b = 70; std::cout << "Third Angle: " << (180 - (a + b)); }
