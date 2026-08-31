@@ -1,0 +1,2 @@
+#include <iostream>
+int main() { double r = 3; std::cout << "Area: " << (3.14159 * r * r); }
