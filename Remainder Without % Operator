@@ -1,0 +1,2 @@
+#include <iostream>
+int main() { int a = 13, b = 4; std::cout << "Remainder: " << (a - (a / b) * b); }
