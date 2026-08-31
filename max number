@@ -1,0 +1,3 @@
+#include <iostream>
+int main() 
+{ int a = 3, b = 9; std::cout << "Max: " << (a > b ? a : b); }
