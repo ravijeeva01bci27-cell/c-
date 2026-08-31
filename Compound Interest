@@ -1,0 +1,2 @@
+#include <iostream>
+int main() { double p = 1000, r = 10; std::cout << "Total: " << (p * (1 + r/100)); }
