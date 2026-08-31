@@ -1,0 +1,2 @@
+#include <iostream>
+int main() { float a = 2.5, b = 1.5; std::cout << "Product: " << (a * b); }
