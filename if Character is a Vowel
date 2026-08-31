@@ -1,0 +1,2 @@
+#include <iostream>
+int main() { char c = 'e'; std::cout << (std::string("aeiouAEIOU").find(c) != std::string::npos ? "Vowel" : "Consonant"); }
