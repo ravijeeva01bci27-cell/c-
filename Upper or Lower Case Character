@@ -1,0 +1,2 @@
+#include <iostream>
+int main() { char c = 'g'; std::cout << (c >= 'A' && c <= 'Z' ? "Upper" : "Lower"); }
