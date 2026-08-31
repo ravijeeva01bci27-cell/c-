@@ -1,0 +1,2 @@
+#include <iostream>
+int main() { double c = 25; std::cout << "F: " << (c * 9/5 + 32); }
