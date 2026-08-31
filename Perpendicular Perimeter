@@ -1,0 +1,2 @@
+#include <iostream>
+int main() { int side = 6; std::cout << "Perimeter: " << (4 * side); }
