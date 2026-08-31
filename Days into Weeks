@@ -1,0 +1,2 @@
+#include <iostream>
+int main() { int days = 21; std::cout << "Weeks: " << (days / 7); }
